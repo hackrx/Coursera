@@ -1,3 +1,2 @@
 # Coursera
-TestRepo
-It is for Practice
+It is for uploading assignments and solutions of courses.
