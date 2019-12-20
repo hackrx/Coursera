@@ -1,0 +1,9 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1
+{
+	color:green;			/** this makes the color of heading tag to green color*/
+	text-align: center;		/** this makes the h1 tag element to align in center*/
+		font-family: sans-serif;		/** this specifies the font family of heading which is sans-d-serif
+}
