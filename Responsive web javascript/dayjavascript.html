@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JavaScript</title>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script>
+	function myfun()
+	{
+		$("#title").html("Goodbye");
+
+		$("#title").click(function(){
+			$("#title").html("Hello!!");
+			$("#title").off("click");
+
+		});
+
+		
+	};
+	function ml()
+	{
+		$("h1.tile").html($("#chapterTitle"+3));
+	};
+	function jk()
+	{
+		$("#tit").hover(function(){
+  $("#tit").css("color", "red");
+}, 
+function(){
+  $("#tit").css("color", "black");
+})
+},
+function(){
+    $("#exit").css("color", "black");
+})
+	};
+</script>
+</head>
+<body>
+
+  <h1  id="title" onclick="myfun();" >Heello!!</h1>
+ <h1 class="tile" onclick="ml();">Abcd</h1>
+ <h2 id="chapterTitle">NMAKL</h2>
+<h3 id="tit" onmouseenter="j2k()">Hover me</h3>
+
+<p id="para">Hii I am Rajat goyal.</p>
+
+
+<script type="text/javascript">
+	
+var s=$("#para").html();
+console.log(s);
+var a = 1;
+if (a == 1){
+  console.log("one");
+  a = a + 1;
+}
+if (a == 2){
+  console.log("two");
+}
+a = a + 1;
+if (a == 3){
+  console.log("three");
+  a = a + 1;
+}
+if (a == 4){
+  console.log("four");
+}
+</script>
+
+
+</body>
+</html>
