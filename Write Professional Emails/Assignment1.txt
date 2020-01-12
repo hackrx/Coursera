@@ -1,1 +1,7 @@
-
+subject:- Request to cancel the order.
+Message:-
+Dear sir, my name is Kevin johnson.Sir I ordered office chair last week from your company.But now I want to cancel my order and as per you policy, I can apply for refund in 30 days after an order placed.I will be very thankful to you if you refund my money in my account.
+Order no.-121564
+Account no.-564321351654
+Regards
+Kevin
